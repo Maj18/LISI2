@@ -28,7 +28,7 @@ Installation
 Install the lisi R package with devtools:
 
     install.packages("devtools")
-    devtools::install_github("immunogenomics/lisi")
+    devtools::install_github("Maj18/LISI2")
 
 Example
 -------
